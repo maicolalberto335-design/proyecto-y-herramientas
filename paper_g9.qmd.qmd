@@ -1,0 +1,195 @@
+---
+title: "Diferencias en las condiciones de vida entre las comunas 13 y 14 de Medellín"
+subtitle: "Comparación territorial con el IMCV y la Encuesta de Calidad de Vida"
+author:
+ - Maicol Ramírez
+ - Samuel Hincapié
+ - Mariana Martínez
+date: "2026-11-05"
+lang: es
+format:
+  html:
+    toc: true
+    number-sections: false
+    embed-resources: true
+  pdf:
+    pdf-engine: xelatex
+    toc: false
+    number-sections: false
+    geometry: margin=1.9cm
+    mainfont: "Tinos"
+    fontsize: 10pt
+    linestretch: 1.08
+bibliography: referencias.bib
+csl: apa.csl
+---
+
+
+
+
+
+# Introducción
+
+Las condiciones de vida no se distribuyen de manera uniforme en Medellín. La comparación entre San Javier (comuna 13) y El Poblado (comuna 14) permite examinar estas diferencias territoriales con información pública, sin reducirlas a estereotipos sobre sus habitantes. La pregunta de investigación es: **¿A qué se deben las diferencias en condiciones de vida entre las comunas 13 y 14 de Medellín?** La pregunta incluye una dimensión explicativa; los datos disponibles permiten describir brechas y discutir interpretaciones posibles desde la literatura, pero no demostrar por sí solos sus causas.
+
+Se utiliza el Índice Multidimensional de Condiciones de Vida (IMCV), producido con información de la Encuesta de Calidad de Vida (ECV) de Medellín, y los indicadores y dimensiones publicados por el Departamento Administrativo de Planeación (DAP). Se presentan los resultados disponibles de 2023 y los indicadores educativos calculados con la encuesta de 2024. La comparación de las dimensiones completas de ambos años está limitada por la falta de puntajes oficiales homogéneos. Las brechas se presentan indicando si corresponden a puntos del índice o a puntos porcentuales [@dap_ecv; @dap_metodo].
+
+El objetivo es identificar diferencias observables entre ambas comunas y explicar cómo esta evidencia puede orientar prioridades de inversión pública. Como estudiantes de primer semestre de Economía, hacemos una comparación descriptiva de información pública, con tablas, porcentajes y diferencias sencillas. No realizamos encuestas nuevas ni entrevistas, y no pretendemos demostrar causas con estos datos. Para evitar conclusiones engañosas, solo se comparan directamente indicadores con definiciones, poblaciones y escalas equivalentes.
+
+# Antecedentes y marco de análisis
+
+La **segregación socioespacial** alude a la distribución desigual de grupos, recursos y oportunidades en el territorio urbano. No es solamente una distancia física: también incluye fronteras simbólicas, diferencias de acceso a servicios y formas de apropiación del espacio. En el estudio de Medellín, este enfoque ayuda a examinar por qué dos comunas de una misma ciudad pueden registrar condiciones de vida distintas, incluso cuando comparten instituciones municipales. Sin embargo, la existencia de una brecha no permite saber por sí sola qué la causó.
+
+Dos antecedentes locales orientan la interpretación territorial. @sanin2011 estudia las representaciones del espacio, la vivienda cerrada y las fronteras sociales asociadas a El Poblado. Su enfoque permite pensar las diferencias territoriales como un fenómeno que involucra prácticas residenciales y significados sociales, no solo ingresos. @velasquez2012 aborda la localización de vivienda social y el ordenamiento territorial de Medellín en el periodo 2006–2011. Este segundo enfoque invita a examinar cómo la ubicación de las viviendas y las decisiones urbanísticas se relacionan con el acceso a oportunidades. Ambos artículos se consultaron en las páginas de la revista *Territorios* de la Universidad del Rosario; sus referencias completas se incluyen al final del trabajo.
+
+Estas perspectivas no son intercambiables con los resultados del IMCV. Los antecedentes ayudan a formular **posibles explicaciones** sobre la distribución territorial de oportunidades; los indicadores de la ECV describen **resultados que muestran los datos** en educación, ambiente y condiciones generales de vida. No es válido atribuir automáticamente la diferencia estadística al elitismo, a una política de vivienda o a una decisión específica de inversión. Para probar mecanismos causales se necesitarían series comparables, información histórica y diseños que examinen explicaciones alternativas.
+
+Además, la discusión sobre desigualdad urbana puede beneficiarse de estudios que advierten que los promedios de una ciudad ocultan disparidades espaciales. La investigación de Martínez y colaboradores sobre inequidades socioespaciales en áreas verdes aporta un marco general de este problema, aunque no ofrece datos directos de las dos comunas estudiadas [@Martinez2026]. Por su parte, el estudio de Ozturk y colaboradores sobre riesgos socionaturales y vulnerabilidad urbana en el caso Granizal recuerda que la exposición territorial a riesgos no coincide mecánicamente con un único nivel socioeconómico; tampoco se utiliza aquí como una estimación del IMCV de San Javier o El Poblado [@Ozturk20261179].
+
+En síntesis, la comparación de las comunas 13 y 14 tiene un propósito doble: identificar diferencias concretas con información pública y situarlas en una discusión sobre desigualdad territorial sin convertir la descripción estadística en una afirmación causal. La elección del IMCV responde a este propósito porque reúne varias dimensiones de bienestar que no quedarían representadas por una sola medida de ingresos.
+
+# Datos, construcción del indicador y metodología
+
+**Origen, producción y alcance del dato.** La investigación utiliza información secundaria oficial de la Encuesta de Calidad de Vida (ECV) de Medellín y del Índice Multidimensional de Condiciones de Vida (IMCV), difundida por el **Departamento Administrativo de Planeación (DAP) del Distrito de Medellín**. El DAP es la entidad institucional responsable de la fuente pública empleada; en la actualización metodológica del indicador participaron también equipos técnicos y académicos, de acuerdo con el documento metodológico elaborado en el marco del convenio entre el Distrito y el Instituto Tecnológico Metropolitano. Es importante distinguir tres niveles: la ECV recoge respuestas de personas y hogares; los indicadores resumen variables de esa encuesta; y el IMCV agrega indicadores para sintetizar las condiciones de vida de territorios. La comparación se realiza entre las comunas **13, San Javier, y 14, El Poblado**, no individuos seleccionados por conveniencia [@dap_ecv; @dap_metodo].
+
+**Construcción y dimensiones del IMCV.** La actualización de 2023 organizó el índice en diez dimensiones, incluida **movilidad**. Las diez dimensiones del esquema publicado en el archivo oficial de 2023 son: (1) condiciones de vida económicas y materiales, (2) trabajo, (3) salud, (4) educación, (5) ocio y relaciones sociales, (6) seguridad física y personal, (7) gobernanza y derechos básicos, (8) entorno y medio ambiente, (9) movilidad y (10) experiencia general de la vida. Algunas incluyen subdimensiones, por ejemplo, trabajo en cantidad y calidad. Los nombres se contrastaron con las pestañas de `DimensionesIMCV2023.xlsx`. Cada dimensión agrupa indicadores simples —en algunos casos mediante subindicadores—, de manera que el resultado multidimensional no equivale a una sola pregunta de la encuesta. La presentación oficial de socialización de 2023, conservada en `datos/socializacionIMCV2023 (1).xlsx`, documenta el proceso de definición y las alternativas de agregación [@dap_metodo].
+
+**Pesos y forma de cálculo.** La documentación distingue la **media aritmética simple**, que asigna el mismo peso a los componentes, la **media ponderada**, que requiere coeficientes explícitos, y métodos que penalizan el desequilibrio entre dimensiones. Entre las combinaciones consideradas aparece **AMPI–AMPI**, que aplica el Índice de Mazziotta-Pareto Ajustado tanto al nivel de los indicadores dentro de cada dimensión como al de la agregación de dimensiones. Así, un resultado alto en un tema no oculta por completo un resultado bajo en otro. **No es correcto interpretar la fórmula de una media ponderada presentada como alternativa como si fuera la tabla de pesos oficiales del IMCV publicado.** En los documentos disponibles no se han podido confirmar los pesos numéricos oficiales de cada dimensión. Por ello, `datos/pesos_dimensiones.csv` permanece como matriz de auditoría pendiente de completar desde la ficha técnica; no se inventan porcentajes ni se supone que los diez pesos sean necesariamente iguales. Si la ficha técnica establece pesos o parámetros de normalización específicos, estos deberán transcribirse y citarse antes de afirmar una ponderación concreta [@dap_metodo].
+
+**Por qué 2022 y 2023 no son directamente comparables.** El IMCV anterior reunía **15 dimensiones**; la actualización presentada en **2023** reformuló el marco conceptual, los indicadores y la agregación en **10 dimensiones**. En consecuencia, **2023 constituye una nueva línea de base y no puede compararse directamente con 2022** como si ambas cifras pertenecieran a una misma serie estadística. Una diferencia entre esos años podría reflejar cambios en la definición y el cálculo, no necesariamente un cambio real en el bienestar. Incluso para comparar **2023 con 2024** es indispensable verificar que las tablas correspondan a la misma versión metodológica, unidad, escala y definición de cada dimensión; no basta con que ambas publicaciones se denominen «IMCV» [@dap_ecv; @dap_metodo].
+
+**Por qué no se eligió pobreza monetaria.** Durante la selección de fuentes se consideró y descartó la **pobreza monetaria como medida principal**, porque habría cambiado el objeto del estudio. Una comparación basada en pobreza monetaria clasificaría a la población según ingresos frente a una línea de pobreza y permitiría estudiar la incidencia de insuficiencia de ingresos, pero **no describiría directamente** las diferencias territoriales en educación, salud, seguridad, entorno, movilidad, relaciones sociales y bienestar subjetivo. Además, requeriría una fuente de ingresos, definiciones de unidad de análisis, líneas de pobreza y representatividad territorial adecuadas para ambas comunas. Elegir el IMCV permite examinar un concepto más amplio de calidad de vida; ello no implica que pobreza monetaria sea irrelevante, sino que responde una pregunta complementaria y no sustituye la medición multidimensional.
+
+**Forma de comparación y límites.** La unidad de comparación territorial es **una comuna en un año**; los puntos del IMCV son una variable, no la unidad. Se realiza un estudio descriptivo, no causal, con fuentes oficiales. Para cada indicador o puntaje dimensional **homologable**, la brecha se define como el valor de El Poblado menos el de San Javier; se especifican las unidades, distinguiendo **puntos de índice** de **puntos porcentuales**. Los indicadores de microdatos ECV 2024 se calculan con el factor de expansión correspondiente a su unidad de análisis, documentando universo y exclusiones. Los datos 2024 se auditan con las columnas `A.7` (comuna), `B.6` (edad), `E.1`, `E.2`, `E.6` (respuestas educativas) y `FEP` (expansión de personas), según el archivo adjunto. Para determinar qué **dimensión completa** presenta la mayor diferencia y si se mantiene entre 2023 y 2024, es necesario disponer de los diez puntajes dimensionales oficiales comparables para ambas comunas en ambos años. Esos valores se incorporarán a `datos/dimensiones_2023_2024.csv` únicamente después de su validación. Hasta entonces, los indicadores educativos parciales de 2024 se presentan como evidencia complementaria y no como una clasificación de dimensiones del IMCV.
+
+# Resultados: comparación por dimensión
+
+En 2023, la hoja `IMCV2023` del archivo oficial `socializacionIMCV2023 (1).xlsx` registra un IMCV general de **93,89** para San Javier y **116,59** para El Poblado, una diferencia de **22,70 puntos** bajo la variante AMPI–AMPI de esa publicación. En los indicadores específicos revisados, la proporción de adultos de 25 a 64 años con educación superior fue 7 % frente a 58 % (**51 puntos porcentuales**); la satisfacción con zonas verdes y recreación, 33 % frente a 66 % (**33 puntos porcentuales**); y la satisfacción con el entorno, 51 % frente a 76 % (**25 puntos porcentuales**). **Estos tres porcentajes no representan los puntajes de las dimensiones completas.** No deben utilizarse para afirmar qué dimensión global presenta la mayor brecha.
+
+| Indicador (2023) | San Javier | El Poblado | Diferencia |
+|:--|--:|--:|--:|
+| IMCV global, variante AMPI–AMPI | 93,89 | 116,59 | 22,70 puntos de índice |
+| Adultos de 25 a 64 años con educación superior | 7 % | 58 % | 51 pp |
+| Satisfacción con zonas verdes y recreación | 33 % | 66 % | 33 pp |
+| Satisfacción con el entorno | 51 % | 76 % | 25 pp |
+
+: Comparación de resultados e indicadores de 2023 
+
+*Fuente: DAP Medellín, hoja `IMCV2023` de `socializacionIMCV2023 (1).xlsx` (índice global), y hojas `dim4Educación` y `dim8Entornoymedioamb` de `DimensionesIMCV2023.xlsx` (indicadores). Cálculo de diferencias: El Poblado menos San Javier. Los indicadores específicos son componentes, no dimensiones completas.*
+
+## Indicadores educativos de la ECV 2024: contraste exploratorio
+
+Con la base de microdatos de la ECV 2024 y su diccionario se seleccionaron San Javier (comuna 13) y El Poblado (comuna 14) mediante `A.7`. Para las estimaciones descriptivas se empleó el factor de expansión de personas (`FEP`). Se calcularon alfabetismo en población de 15 años o más, asistencia educativa entre 5 y 24 años y nivel educativo tecnológico, universitario o de posgrado en población de 25 años o más. Los valores del CSV se contrastaron previamente con los microdatos originales. El script de recálculo se conserva en `scripts/calcular_indicadores_ecv_2024.py` y se ejecutó sobre la base original en esta revisión, con resultados coincidentes a dos decimales. **La interpretación sustantiva de las categorías educativas y los filtros debe cotejarse con el diccionario y el cuestionario**; estas estimaciones no incorporan la varianza del diseño muestral.
+
+| Indicador de la ECV 2024 | San Javier | El Poblado | Diferencia a favor de El Poblado |
+|:--|--:|--:|--:|
+| Alfabetismo, 15 años o más | 97,73 % | 99,06 % | 1,33 pp |
+| Asistencia educativa, 5–24 años | 66,47 % | 85,73 % | 19,26 pp |
+| Educación tecnológica, universitaria o posgrado, 25 años o más | 15,34 % | 74,12 % | 58,78 pp |
+
+: Indicadores educativos de la ECV 2024 
+
+*Fuente: Encuesta de Calidad de Vida 2024, Departamento Administrativo de Planeación de Medellín; cálculos exploratorios del Grupo 9 a partir de microdatos, ponderados con FEP. Véase `datos/indicadores_ecv_2024.csv`.*
+
+La figura presenta las brechas de tres indicadores educativos de 2024 y se genera automáticamente con código R a partir de `indicadores_ecv_2024.csv`, que contiene estimaciones ponderadas con FEP. La figura muestra diferencias entre porcentajes, no puntajes dimensionales del IMCV.
+
+La brecha más amplia **entre estos tres indicadores educativos** corresponde al nivel de formación superior, con 58,78 puntos porcentuales. No puede concluirse de ello que Educación sea la dimensión con la mayor brecha del IMCV, porque el cálculo del índice completo emplea definiciones y escalas distintas.
+
+```{r}
+#| label: fig-brechas-educacion
+#| fig-cap: "Brechas educativas en 2024 (puntos porcentuales). Fuente: ECV 2024, DAP Medellín; estimaciones del Grupo 9 ponderadas con FEP."
+#| fig-width: 9
+#| fig-height: 4.5
+#| echo: false
+
+ruta <- "indicadores_ecv_2024.csv"
+if (!file.exists(ruta)) stop("Coloca indicadores_ecv_2024.csv junto a paper_g9.qmd")
+d <- read.csv(ruta, fileEncoding = "UTF-8-BOM", check.names = FALSE,
+              stringsAsFactors = FALSE)
+columnas <- c("comuna", "indicador", "porcentaje_ponderado")
+stopifnot(all(columnas %in% names(d)))
+a <- d[d$comuna == "San Javier (13)", c("indicador", "porcentaje_ponderado")]
+b <- d[d$comuna == "El Poblado (14)", c("indicador", "porcentaje_ponderado")]
+stopifnot(nrow(a) == 3, nrow(b) == 3,
+          !anyDuplicated(a$indicador), !anyDuplicated(b$indicador))
+x <- merge(a, b, by = "indicador", suffixes = c("_13", "_14"))
+stopifnot(nrow(x) == 3, !anyNA(x))
+x$brecha <- x$porcentaje_ponderado_14 - x$porcentaje_ponderado_13
+x <- x[order(x$brecha), ]
+par(mar = c(5, 20, 3, 2))
+barplot(x$brecha, names.arg = x$indicador, horiz = TRUE,
+        las = 1, col = "gray45", xlim = c(0, max(x$brecha) * 1.2),
+        xlab = "Diferencia (puntos porcentuales): comuna 14 menos comuna 13",
+        main = "Brechas en indicadores educativos, ECV 2024")
+```
+
+La comparación con 2023 requiere cuidado: el indicador de adultos con educación superior de 2023 utiliza población de **25 a 64 años**, mientras que el indicador exploratorio de 2024 utiliza población de **25 años o más**, y las definiciones de títulos deben verificarse. Por lo tanto, no calculamos una variación interanual entre ambos porcentajes.
+
+**Comparación dimensional 2023–2024 y criterio de equivalencia.** Se buscaron los puntajes oficiales de las diez dimensiones del IMCV para San Javier y El Poblado en ambos años, pero no se logró verificar una matriz completa y homogénea. Por eso, siguiendo la orientación de la docente, se presenta una comparación descriptiva con los indicadores disponibles y se reconoce explícitamente el alcance de la evidencia. En 2023 se reportan resultados del IMCV y algunos indicadores parciales; en 2024 se presentan tres indicadores educativos calculados con microdatos de la ECV. **Estos conjuntos no se equiparan entre sí**, porque difieren en población de referencia, definición y nivel de agregación. No se calcula una variación 2023–2024 de las diez dimensiones ni se afirma cuál tuvo la mayor brecha en ambos años. Esta ausencia de información constituye una limitación de la investigación, no un resultado estadístico.
+
+*La gráfica de las diez dimensiones solo podrá generarse cuando se disponga de resultados oficiales comparables para ambos años.*
+
+**Límite de los resultados por dimensión.** Con los tres indicadores disponibles **no es posible establecer qué dimensión completa tiene la mayor brecha ni si es la misma en 2023 y 2024**. El script `scripts/analisis_imcv.R` prepara la validación de esas diferencias cuando se disponga de los puntajes oficiales completos. Una brecha absoluta de puntos dimensionales también debe interpretarse con atención a la escala y ponderación de cada dimensión. No se concluye causalidad a partir de estas diferencias.
+
+## Interpretación de las brechas y precauciones de medición
+
+La diferencia del IMCV total en 2023 sintetiza múltiples ámbitos, pero no indica por sí sola cuál componente explica más la distancia. Un índice agregado puede ocultar resultados desiguales dentro de cada comuna y entre hogares; por eso, la unidad territorial no debe confundirse con la situación de todas las personas que residen allí. También es importante que las diferencias se reporten con unidades: 22,70 **puntos del índice** no equivalen a 22,70 %, mientras que la diferencia entre dos proporciones se expresa en **puntos porcentuales**.
+
+Los tres indicadores parciales de 2023 apuntan a contrastes en educación y percepción del entorno. El de educación superior muestra la mayor diferencia entre esos tres indicadores, pero no es posible convertir esa observación en una clasificación de las diez dimensiones completas. El hecho de que una dimensión incluya varios indicadores y reglas de agregación significa que una variable aislada puede evolucionar de forma distinta a su puntaje dimensional. Por la misma razón, no corresponde ordenar dimensiones según los porcentajes de la tabla.
+
+En 2024, los indicadores educativos fueron calculados para universos diferentes: alfabetismo para personas de 15 años o más, asistencia para edades de 5 a 24 años y formación superior para población de 25 años o más. Comparar las **brechas** dentro de esta tabla permite reconocer dónde se concentra la mayor diferencia de estos tres indicadores, pero no permite concluir que una política específica causó esa diferencia. Las estimaciones dependen de la correcta identificación de variables, factores de expansión y filtros del cuestionario, y no se calcularon márgenes de error ni pruebas estadísticas. Por tanto, los porcentajes se tratan como resultados iniciales que deben interpretarse con cuidado.
+
+La pregunta de si la mayor brecha se mantiene entre 2023 y 2024 exige comparar definiciones equivalentes. En educación superior, la edad de referencia ya es diferente entre los datos disponibles: 25–64 años en el dato de 2023 frente a 25 años o más en la estimación de 2024. Atribuir un cambio entre esos porcentajes a una evolución real de la comuna sería metodológicamente incorrecto. El mismo principio se aplica a las dimensiones del IMCV: solo una matriz oficial homogénea permitiría identificar la dimensión con la mayor brecha en cada año y comprobar si se repite.
+
+## Lectura de los resultados y alcance de la respuesta
+
+Los datos disponibles muestran diferencias en el IMCV global de 2023 y en indicadores específicos relacionados con educación y entorno. En el conjunto exploratorio de educación de 2024, la diferencia más amplia corresponde a formación superior de la población de 25 años o más. **Esta afirmación solo compara los tres indicadores educativos examinados en 2024:** no identifica la dimensión más desigual del IMCV. Tampoco permite afirmar que la misma dimensión haya tenido la mayor brecha en 2023 y 2024. El contraste entre la educación superior de 2023 (25 a 64 años) y el indicador de 2024 (25 años o más) no es una comparación interanual equivalente.
+
+Esta limitación no invalida las comparaciones dentro de un mismo año y bajo la misma definición. Sí restringe la respuesta a la pregunta inicial: podemos describir diferencias territoriales observadas, pero no cuantificar con estos archivos el peso causal de la historia urbana o de la inversión pública en la formación de las brechas.
+
+# Implicaciones para la toma de decisiones públicas
+
+Los resultados de esta investigación pueden servir al Departamento Administrativo de Planeación de Medellín, a las Juntas Administradoras Locales (JAL), a las organizaciones comunitarias y a los responsables de formular políticas públicas. La comparación de las condiciones de vida entre San Javier (comuna 13) y El Poblado (comuna 14) permite identificar desigualdades territoriales que deben considerarse al establecer prioridades de inversión.
+
+En particular, el análisis puede contribuir a las decisiones relacionadas con el **presupuesto participativo**, al proporcionar evidencia para discutir qué necesidades requieren mayor atención en cada comuna. Si se identifican brechas relevantes en educación, vivienda, seguridad o acceso a servicios, los actores locales podrán utilizar estos hallazgos como insumo para proponer y priorizar proyectos orientados a reducirlas.
+
+Asimismo, la investigación puede apoyar la **distribución de la inversión pública por comuna**, promoviendo criterios de asignación que consideren las condiciones de vida y las necesidades específicas de cada territorio, en lugar de depender exclusivamente de distribuciones uniformes. Esto no significa que el IMCV determine automáticamente los recursos asignados, sino que ofrece información complementaria para orientar decisiones más fundamentadas.
+
+Finalmente, los resultados pueden servir como punto de partida para evaluar intervenciones futuras. No obstante, las diferencias observadas son descriptivas y no demuestran por sí mismas las causas de la desigualdad. Por ello, las decisiones de inversión deben complementarse con diagnósticos locales, participación ciudadana y criterios de viabilidad técnica y presupuestal.
+
+
+# Referencias
+
+::: {#refs}
+:::
+
+\newpage
+
+# Anexo A. Cuadro de herramientas y recursos
+
+
+| Herramienta | Uso en el trabajo | Evidencia o producto |
+|:--|:--|:--|
+| GitHub | Organización de archivos y preparación de versiones del proyecto. | Carpeta del proyecto preparada para el repositorio, con archivos fuente y datos. |
+| Quarto | Escritura del artículo y organización de secciones, tablas y referencias. | `paper_g9.qmd`. |
+| Zotero y BibTeX | Organización de referencias y bibliografía. | `referencias.bib` y exportaciones bibliográficas incluidas. |
+| Excel | Consulta y revisión de la ECV, diccionario y tablas de indicadores. | Archivos de `datos/` y tablas de resultados. |
+| R | Preparación de scripts y visualización de las diferencias observadas. | `scripts/grafica_educacion_2024.R` y otros scripts del proyecto. |
+| ChatGPT (OpenAI) | Apoyo en la redacción, revisión de claridad, búsqueda de información y consultas metodológicas y técnicas. | Declaración en el anexo B. |
+| Overleaf y LaTeX | Trabajo de edición y presentación académica, según lo informado por los integrantes. | Documento final en PDF y archivos fuente; no se incluye exportación independiente de Overleaf. |
+| Power BI | Formación y uso de herramientas de visualización, según lo informado por el grupo. | Certificación de Power BI de un integrante; adjuntar el certificado al repositorio. |
+
+
+# Anexo B. Declaración de uso de inteligencia artificial
+
+**1. Herramienta y fecha.** Utilizamos ChatGPT de OpenAI durante octubre y noviembre de 2026, incluida la versión GPT-6 en noviembre, como apoyo complementario en la preparación del artículo.
+
+**2. Solicitudes por sección.** En la introducción solicitamos mejorar la claridad de la pregunta y la redacción, sin pedir que se inventaran resultados. En los antecedentes pedimos apoyo para ordenar ideas y localizar información complementaria. En los datos consultamos explicaciones sobre el IMCV y su cambio metodológico. En los resultados pedimos ayuda para presentar las tablas y revisar la claridad de las comparaciones, así como apoyo técnico con código y gráficos. En las implicaciones solicitamos mejorar la redacción. Estos son resúmenes de las consultas, no citas literales; los mensajes textuales disponibles se registran por separado en `PROMPTS_Y_DECLARACION_IA.md`.
+
+**3. Propuestas no utilizadas.** Se descartaron comparaciones entre dimensiones completas sin datos equivalentes, ponderaciones no verificadas y afirmaciones que excedían la información disponible.
+
+**4. Dificultades y correcciones.** Se revisó la diferencia entre porcentajes e índices, el cambio metodológico de 2023 y la necesidad de no comparar grupos de edad distintos como si fueran equivalentes.
+
+**5. Verificación.** Se contrastaron los indicadores educativos de 2024 con la base de la ECV mediante un recálculo y una comparación independiente de porcentajes y gráfica; se conservaron las fuentes consultadas. Los pesos oficiales siguen pendientes de comprobación; las referencias locales de Sanín Naranjo y Velásquez Higuita se contrastaron con la revista *Territorios*.
+
+**6. Revisión final.** Responsables propuestos: **todos los integrantes del Grupo 9**. Cada integrante debe confirmar personalmente la lectura completa y la fecha de verificación antes de la entrega.

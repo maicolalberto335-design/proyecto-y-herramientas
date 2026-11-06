@@ -1,0 +1,13 @@
+PRODUCTOR: Departamento Administrativo de Planeación de Medellín.
+Portal de ECV: https://www.medellin.gov.co/es/centro-documental/encuesta-calidad-de-vida/
+Archivos adjuntos por usuario: ECV_2024(1).xlsx, Diccionario-de-datos-ECV-2024(1).xlsx, socializacionIMCV2023 (1).xlsx, DimensionesIMCV2023.xlsx, Socializacion-IMCV-2023.pdf.
+FECHA DE DESCARGA DECLARADA POR EL GRUPO: 29 de octubre de 2026 (confirmada por los integrantes; no inferida de los metadatos).
+RECEPCIÓN EN CONVERSACIÓN: octubre 2026 (no equivale a fecha de descarga).
+SCOPUS: dos archivos .bib exportados con fecha declarada por Scopus 30 octubre 2026; se conservan en datos/.
+RESULTADOS: socializacionIMCV2023 (1).xlsx hoja IMCV2023, Comuna y AMPI_AMPI; DimensionesIMCV2023.xlsx hojas dim4Educación (adultoedsup), dim8Entornoymedioamb (satiszonver, satisentor).
+LIMITACIÓN: estos indicadores componentes NO equivalen a los puntajes sintéticos de dimensiones.
+RESPONSABILIDAD: Grupo 9 conjuntamente. Los tres integrantes revisaron el documento; una persona externa al grupo leyó todas las versiones, incluida la última, según confirmación del grupo.
+
+Confirmación del Grupo 9: los datos oficiales fueron descargados el 29 de octubre de 2026.
+
+ARCHIVOS ORIGINALES INCLUIDOS EN ESTA VERSIÓN: datos/ECV_2024_original.xlsx (copia de ECV_2024 (1).xlsx) y datos/Diccionario-de-datos-ECV-2024.xlsx (copia de Diccionario-de-datos-ECV-2024 (1).xlsx).
